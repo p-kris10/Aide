@@ -1,6 +1,10 @@
 # AIDE
 The aim of the application is to provide assistance to Visually Challenged Individuals with the power of image captioning and VQA (Visual Question Answering)!
+## Developers Contact 📞
 
+1. [Joy Almeida](https://linkedin.com/in/joy-almeida0)
+2. [Kristen Pereira](https://www.linkedin.com/in/kristen-pereira-846673214/)
+3. [Rushil Patel](https://www.linkedin.com/in/rushil-patel-7b03331b4/)
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/J0SAL/Aide?logo=github&style=for-the-badge)](https://github.com/J0SAL/) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/J0SAL/Aide?style=for-the-badge&logo=git)](https://github.com/J0SAL/) 
@@ -48,8 +52,4 @@ flutter run
 ```
 
 
-## Developers Contact 📞
 
-1. [Joy Almeida](https://linkedin.com/in/joy-almeida0)
-2. [Kristen Pereira](https://www.linkedin.com/in/kristen-pereira-846673214/)
-3. [Rushil Patel](https://www.linkedin.com/in/rushil-patel-7b03331b4/)
